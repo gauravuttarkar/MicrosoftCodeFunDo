@@ -10,3 +10,4 @@ b) Helping the rescue teams to save more people <br />
 c) Creating awareness towards conservation of our environment <br />
 	-> Informing the users if their lifestyle is affecting the environment in a positive or negative manner and what changes can be brought about by changing their lifestyle.
 	
+Implementation: We are planning to build a android app as it is the most used mobile platform. Backend part will be done in Django.
